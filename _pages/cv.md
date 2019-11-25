@@ -15,6 +15,21 @@ Education
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
 * Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019
 
+
+Work experience
+======
+* Fall 2019 - Now: Assistant professor
+  * School of Computer Science of Ahmed Draia, Adrar, Algeria.
+  * University of Ahmed Draia, Adrar, Algeria.
+
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
@@ -36,11 +51,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
