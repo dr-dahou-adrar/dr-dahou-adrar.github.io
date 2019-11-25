@@ -81,12 +81,10 @@ analytics:
 author:
   name             : "Abdelghani Dahou"
   avatar           : "profile.jpg"
-  bio              : "Phd of computer science in Deep learning, NLP, and Arabic language processing from Wuhan University of Technology"
-  location 1       : "Wuhan, Hubei, China"
+  bio              : "Assistant professor - Phd"
+  location         : "Adrar, Algeria"
   employer         : "Assistant professor"
   Major            : "Computer Science"
-  University       : "University of Ahmed Draia"
-  location 2       : "Adrar, Algeria"
   googlescholar    : "https://scholar.google.com/citations?user=ttDjZWoAAAAJ&hl=en"
   email            : "dahou.abdghani@univ-adrar.dz"
   uri              :
