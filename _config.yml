@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdelghani Dahou"
+title                    : "Dr. Abdelghani Dahou"
 title_separator          : "-"
 name                     : &name "Abdelghani Dahou"
 description              : &description "Phd student in Wuhan University of Technology - Deep learnin - NLP - Arabic language processing"
-url                      : "https://dahouabdelghani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dr-dahou-adrar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-dahou-adrar/dr-dahou-adrar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
