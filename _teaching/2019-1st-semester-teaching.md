@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "2019 - 1st Semester"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2019-1st-semester-teaching
+venue: "University of Ahmed Draia, Computer Science Department"
+date: 2019-11-10
+location: "Adrar, Algeria"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
