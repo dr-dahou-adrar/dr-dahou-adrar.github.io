@@ -13,7 +13,7 @@ name                     : &name "Abdelghani Dahou"
 description              : &description "Phd student in Wuhan University of Technology - Deep learnin - NLP - Arabic language processing"
 url                      : "https://dahouabdelghani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dahouabdelghani/dahouabdelghani.github.io"
+repository               : "dr-dahou-adrar/dr-dahou-adrar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,13 @@ author:
   name             : "Abdelghani Dahou"
   avatar           : "profile.jpg"
   bio              : "Phd of computer science in Deep learning, NLP, and Arabic language processing from Wuhan University of Technology"
-  location         : "Wuhan, Hubei, China"
-  employer         : "Assistant professor of Computer Science, University of Adrar, Algeria"
+  location 1       : "Wuhan, Hubei, China"
+  employer         : "Assistant professor"
+  Major            : "Computer Science"
+  University       : "University of Ahmed Draia"
+  location 2       : "Adrar, Algeria"
   googlescholar    : "https://scholar.google.com/citations?user=ttDjZWoAAAAJ&hl=en"
-  email            : "dahou.abdghani@gmail.com"
+  email            : "dahou.abdghani@univ-adrar.dz"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dahouabdelghani"
+  github           : "https://github.com/dr-dahou-adrar/"
   google_plus      :
   keybase          :
   instagram        :
