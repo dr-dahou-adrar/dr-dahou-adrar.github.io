@@ -83,7 +83,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Assistant professor - Phd"
   location         : "Adrar, Algeria"
-  employer         : "Assistant professor"
+  employer         : #"Assistant professor"
   Major            : "Computer Science"
   googlescholar    : "https://scholar.google.com/citations?user=ttDjZWoAAAAJ&hl=en"
   email            : "dahou.abdghani@univ-adrar.dz"
