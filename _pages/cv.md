@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Fall 2019 - Now: Assistant professor
-  * School of Computer Science of Ahmed Draia, Adrar, Algeria.
+  * School of Computer Science.
   * University of Ahmed Draia, Adrar, Algeria.
 
 
