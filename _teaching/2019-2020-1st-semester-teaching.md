@@ -14,5 +14,11 @@ Algorithms and Data Structures
 
 [Fiche TP 1](https://www.notion.so/2-Fiche-TP01-Online-79c0a5a1ad984b9da8537dac48ba1084)
 
+Numerical Methods
+======
+[TP 1]()
 
+Human-Machine Interface (HMI)
+======
+[TP 1]()
 
