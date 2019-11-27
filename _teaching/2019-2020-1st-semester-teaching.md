@@ -1,5 +1,5 @@
 ---
-title: "2019 - 1st Semester"
+title: "2019-2020 - 1st Semester"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-2020-1st-semester-teaching
