@@ -15,4 +15,4 @@ My research interests lie in the general area of machine learning, particularly 
 
 Recent News
 ======
-** Publishing class courses.
+27/11/2019 - Publishing class courses.
