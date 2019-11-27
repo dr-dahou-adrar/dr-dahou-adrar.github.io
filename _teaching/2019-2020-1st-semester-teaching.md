@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-2020-1st-semester-teaching
 venue: "University of Ahmed Draia, Computer Science Department"
-date: 2019-11-10
+date: 2019-11-27
 location: "Adrar, Algeria"
 ---
 
