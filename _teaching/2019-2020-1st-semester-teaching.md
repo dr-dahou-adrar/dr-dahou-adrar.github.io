@@ -8,7 +8,7 @@ date: 2019-11-10
 location: "Adrar, Algeria"
 ---
 
-Assigned list of Classes for this semester: Algorithms and Data Structures, Numerical Methods, and Human-Machine Interface (HMI).
+Assigned list of classes for this semester: Algorithms and Data Structures, Numerical Methods, and Human-Machine Interface (HMI).
 
 
 Algorithms and Data Structures
