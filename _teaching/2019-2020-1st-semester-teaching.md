@@ -26,11 +26,9 @@ Numerical Methods
 
 Human-Machine Interface (HMI)
 ======
-[TP 1 - Introduction](https://www.notion.so/TP01-Introduction-eb9174c7afad43fcb0c5dca09c57f080)
-
-[TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
-
-[TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
+* [TP 1 - Introduction](https://www.notion.so/TP01-Introduction-eb9174c7afad43fcb0c5dca09c57f080)
+* [TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
+* [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
 
 
 
