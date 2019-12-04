@@ -16,9 +16,13 @@ Algorithms and Data Structures
 
 [Fiche TP 1](https://www.notion.so/2-Fiche-TP01-Online-79c0a5a1ad984b9da8537dac48ba1084)
 
+***
+
 Numerical Methods
 ======
 [TP 1]()
+
+***
 
 Human-Machine Interface (HMI)
 ======
@@ -27,6 +31,8 @@ Human-Machine Interface (HMI)
 [TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
 
 [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
+
+***
 
 
 
