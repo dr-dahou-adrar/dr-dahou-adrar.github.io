@@ -1,7 +1,7 @@
 ---
 title: "Class Feedback (Please fill in this form to improve the learning/teaching experience)"
 collection: teaching
-type: "Undergraduate course"
+type: "Class Feedback"
 permalink: /teaching/Class-feedback
 venue: "University of Ahmed Draia, Computer Science Department"
 date: 2019-12-04
