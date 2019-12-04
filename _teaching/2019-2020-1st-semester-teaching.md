@@ -29,8 +29,5 @@ Human-Machine Interface (HMI)
 [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
 
 
-Class Feedback (Please fill in this form to improve the learning/teaching experience)
-======
-Please submit feedback regarding the course you have just attended or completed, including feedback on course structure, content, and instructor.
-[Course Feedback](https://forms.gle/S8qHBjacM9y4GgbXA)
+
 
