@@ -16,5 +16,5 @@ My research interests lie in the general area of machine learning, particularly 
 
 Recent News
 ======
-04/12/2019 - Course feedback form has been added to the website.
-27/11/2019 - Publishing class courses.
+* 04/12/2019 - Course feedback form has been added to the website.
+* 27/11/2019 - Publishing class courses.
