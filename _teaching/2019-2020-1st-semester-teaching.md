@@ -10,7 +10,7 @@ location: "Adrar, Algeria"
 
 Assigned list of classes for this semester: Algorithms and Data Structures, Numerical Methods, and Human-Machine Interface (HMI).
 
-
+***
 Algorithms and Data Structures
 ======
 
@@ -32,7 +32,7 @@ Human-Machine Interface (HMI)
 
 [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
 
-***
+
 
 
 
