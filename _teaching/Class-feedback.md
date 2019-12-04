@@ -10,10 +10,7 @@ location: "Adrar, Algeria"
 
 Please submit feedback regarding the course you have just attended or completed, including feedback on course structure, content, and instructor.
 
-
-Class Feedback (Please fill in this form to improve the learning/teaching experience)
-======
-[Course Feedback](https://forms.gle/S8qHBjacM9y4GgbXA)
+[Course Feedback link](https://forms.gle/S8qHBjacM9y4GgbXA)
 
 
 
