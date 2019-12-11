@@ -17,7 +17,7 @@ Algorithms and Data Structures
 
 
 1. [C language basics](https://www.notion.so/1-C-language-basics-462f0979ef87411aaaed109c41be66a5)
-2. [Fiche TP 1](https://www.notion.so/2-Fiche-TP01-Online-79c0a5a1ad984b9da8537dac48ba1084)
+2. [Fiche TP 1](https://www.notion.so/2-Fiche-TP01-d871907a5f5f4491a471468246b4f742)
 
 ***
 
