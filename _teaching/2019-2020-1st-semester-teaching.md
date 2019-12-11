@@ -30,6 +30,10 @@ Human-Machine Interface (HMI)
 1. [TP 1 - Introduction](https://www.notion.so/TP01-Introduction-eb9174c7afad43fcb0c5dca09c57f080)
 2. [TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
 3. [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
+4. [TP 2 - GUI App - 2](https://www.notion.so/TP02-GUI-App-2-8bdd68795a854bfcbf96774016b82a55)
+
+
+* Notice concerning mini-projects: students need to submit a report before the evaluation date.
 
 
 
