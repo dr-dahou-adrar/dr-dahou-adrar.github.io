@@ -15,7 +15,9 @@ Assigned list of classes for this semester: Algorithms and Data Structures, Nume
 Algorithms and Data Structures
 ======
 
-[Fiche TP 1](https://www.notion.so/2-Fiche-TP01-Online-79c0a5a1ad984b9da8537dac48ba1084)
+
+1. [C language basics](https://www.notion.so/1-C-language-basics-462f0979ef87411aaaed109c41be66a5)
+2. [Fiche TP 1](https://www.notion.so/2-Fiche-TP01-Online-79c0a5a1ad984b9da8537dac48ba1084)
 
 ***
 
