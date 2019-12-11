@@ -21,7 +21,11 @@ Algorithms and Data Structures
 
 Numerical Methods
 ======
-[TP 1]()
+1. [MATLAB basics](https://www.notion.so/1-MATLAB-basics-95a4cba5a607477598e94f1e27e883a3)
+2. [La méthode de point fixe]()
+2. [La méthode de Lagrange]()
+
+
 
 ***
 
