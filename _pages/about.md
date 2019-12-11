@@ -16,5 +16,7 @@ My research interests lie in the general area of machine learning, particularly 
 
 Recent News
 ======
+* 11/12/2019 - Recent IHM TP has been added with a notice for mini-projects.
+* 11/12/2019 - New publications has been added.
 * 04/12/2019 - Course feedback form has been added to the website.
 * 27/11/2019 - Publishing class courses.
