@@ -24,7 +24,7 @@ Algorithms and Data Structures
 Numerical Methods
 ======
 1. [MATLAB basics](https://www.notion.so/1-MATLAB-basics-95a4cba5a607477598e94f1e27e883a3)
-2. [La méthode de point fixe]()
+2. [La méthode de point fixe](https://www.notion.so/3-La-m-thode-de-point-fixe-8eeb42b2c51749e5892fc9eea2f784c9)
 2. [La méthode de Lagrange]()
 
 
