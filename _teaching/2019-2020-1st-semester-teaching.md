@@ -40,14 +40,13 @@ Human-Machine Interface (HMI)
 4. [TP 2 - GUI App - 2](https://www.notion.so/TP02-GUI-App-2-8bdd68795a854bfcbf96774016b82a55)
 5. [TP03 - Menu](https://www.notion.so/dahou/TP03-Menu-5789cdf97d974f6b90e55ef7df2ecf38)
 6. HMI Project Evaluation:  
-
-- TP presence: 5 points  
-- Project: 15 points divided as follows:  
-	- Report: 2 points  
-	- Project Idea: 2 points  
-	- Interface components: 5 points 
-	- Code understanding: 3 points  
-	- Program functionality (Buttons clicks and messages): 3 points.  
+	- TP presence: 5 points  
+	- Project: 15 points divided as follows:  
+		- Report: 2 points  
+		- Project Idea: 2 points  
+		- Interface components: 5 points 
+		- Code understanding: 3 points  
+		- Program functionality (Buttons clicks and messages): 3 points.  
 
 
 
