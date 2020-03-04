@@ -1,5 +1,5 @@
 ---
-title: "Class Feedback رأي الطالب في المادة المقدة و الأستاذ"
+title: "Class Feedback رأي الطالب في المادة المقدمة و الأستاذ"
 collection: teaching
 type: "Class Feedback"
 permalink: /teaching/Class-feedback
