@@ -13,10 +13,17 @@ Asalam Alaikom! I’m Dr. Abdelghani Dahou. I received my B.S. degree in compute
 My research interests lie in the general area of machine learning, particularly in deep learning, neural architecture search and NeuroEvolution, as well as their applications in opinion mining, text classification, multi-task and meta-learning and Arabic natural language processing.
 
 
+Important Pages صفحات مهمة
+======
+
+* Please submit feedback regarding the course you have just attended or completed, including feedback on course structure, content, and instructor.
+
+[Course Feedback رأي الطالب في المادة المقدة](https://forms.gle/S8qHBjacM9y4GgbXA)
+
+* 02/03/2020 - [Students contact information (إستمارة معلومات الطالب)](https://forms.gle/21qo3cfEJkgRV58i8)
 
 Recent News
 ======
-* 02/03/2020 - [Students contact information (إستمارة معلومات الطالب)](https://forms.gle/21qo3cfEJkgRV58i8)
 * 11/12/2019 - Recent IHM TP has been added with a notice for mini-projects.
 * 11/12/2019 - New publications has been added.
 * 04/12/2019 - Course feedback form has been added to the website.
