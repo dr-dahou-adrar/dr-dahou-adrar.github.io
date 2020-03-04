@@ -18,7 +18,7 @@ Important Pages صفحات مهمة
 
 * Please submit feedback regarding the course you have just attended or completed, including feedback on course structure, content, and instructor.
 
-	[Course Feedback رأي الطالب في المادة المقدة و الأستاذ](https://forms.gle/S8qHBjacM9y4GgbXA)
+	[Course Feedback رأي الطالب في المادة المقدمة و الأستاذ](https://forms.gle/S8qHBjacM9y4GgbXA)
 
 * 02/03/2020 - [Students contact information (إستمارة معلومات الطالب)](https://forms.gle/21qo3cfEJkgRV58i8)
 
