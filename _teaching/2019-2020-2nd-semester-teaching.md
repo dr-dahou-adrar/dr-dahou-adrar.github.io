@@ -16,8 +16,8 @@ Algorithms and Data Structures 2
 ======
 
 
-1. [Excercice 1 Correction (Fiche TP 3)]()
-2. [Test 1 Correction]()
+1. [Excercice 1 solution (Fiche TP 3)]()
+2. [Test 1 solution]()
 
 ***
 
