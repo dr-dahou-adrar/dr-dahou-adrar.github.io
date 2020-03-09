@@ -16,8 +16,8 @@ Algorithms and Data Structures 2
 ======
 
 
-1. [Excercice 1 solution (Fiche TP 3)]()
-2. [Test 1 solution]()
+1. [Submission of Excercice 3 solution (Fiche TP 3) لإرفاق حل للامرين رقم ٣ إضغط هنا](https://forms.gle/HUHxUzirixwaMgzk7)
+
 
 ***
 
