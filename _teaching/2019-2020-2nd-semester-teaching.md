@@ -1,5 +1,5 @@
 ---
-title: "2019-2020 - 2nd Semester"
+title: "2019-2020 - 2nd Semester الفصل الثاني"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-2020-2nd-semester-teaching
@@ -23,6 +23,7 @@ Algorithms and Data Structures 2
 
 Announces إعلانات
 ======
+* 09/03/2020 There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams. لا يةجد حصص تطبيقية بسبب الإختبارات الإستدراكية.
 * Exercice 2 deadline for all groups: 8-12/03/2020.
 
 
