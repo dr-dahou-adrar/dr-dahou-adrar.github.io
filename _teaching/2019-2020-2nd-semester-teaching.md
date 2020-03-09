@@ -23,6 +23,7 @@ Algorithms and Data Structures 2
 
 Announces إعلانات
 ======
+* Exercice 3 submission deadline : 31/03/2020 أخر اجل لإيداع حل للتمرين رقم ٣.
 * 09/03/2020 There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams. لا يوجد أي حصص تطبيقية بسبب الإختبارات الإستدراكية.
 * Exercice 2 deadline for all groups: 8-12/03/2020.
 
