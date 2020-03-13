@@ -15,8 +15,8 @@ Assigned list of classes for this semester: Algorithms and Data Structures 2.
 Algorithms and Data Structures 2
 ======
 
-
-1. [Submission of Excercice 3 solution (Fiche TP 3) إضغط هنا لإرفاق حل للتمرين](https://forms.gle/HUHxUzirixwaMgzk7)
+1. [Excercices and tests solutions + explanations of "Fiche TP 3" شرح, حلول تمارين و فروض](https://www.notion.so/dahou/5-Fiche-TP03-6bf99212e1fd4d2c89adac28013cd857) 
+2. [Submission of Excercice 3 solution (Fiche TP 3) إضغط هنا لإرفاق حل للتمرين](https://forms.gle/HUHxUzirixwaMgzk7)
 
 
 ***
