@@ -1,12 +1,17 @@
 ---
 title: "Resources كتب و روابط مهمة للتعلم الذاتي"
 collection: teaching
-type: "resources"
+type: "Resources"
 permalink: /teaching/resources
 venue: "University of Ahmed Draia, Computer Science Department"
 date: 2002-03-25
 location: "Adrar, Algeria"
 ---
+
+مواقع و كتب تهم الطالب لزيادة معرفته و تنمية التعلم الذاتي.
+
+
+
 
 
 Websites مواقع
