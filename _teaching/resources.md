@@ -4,7 +4,7 @@ collection: teaching
 type: "Resources"
 permalink: /teaching/resources
 venue: "University of Ahmed Draia, Computer Science Department"
-date: 2002-03-25
+date: 2019-09-25
 location: "Adrar, Algeria"
 ---
 
