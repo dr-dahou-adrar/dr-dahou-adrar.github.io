@@ -15,7 +15,7 @@ My research interests lie in the general area of machine learning, particularly 
 
 Important Pages صفحات مهمة
 ====== 
-* [Submission of Excercice 3 solution (Fiche TP 3) إضغط هنا لإرفاق حل للتمرين](https://forms.gle/HUHxUzirixwaMgzk7)
+* [ شروحات و نشاطات الوحدة 4 سيتم إدراجها على منصة التعليم عن بعد على هذا الرابط](https://elearning.univ-adrar.dz/course/view.php?id=266)
 
 * [Course Feedback رأي الطالب في المادة المقدمة و الأستاذ](https://forms.gle/S8qHBjacM9y4GgbXA)
 
@@ -23,6 +23,7 @@ Important Pages صفحات مهمة
 
 Recent News
 ======
+* 06/04/2020 - Lessons and activities will added on the E-learning platfrom سيتم إدراج الدروس على منصة التعليم عن بعد
 * 11/12/2019 - Recent IHM TP has been added with a notice for mini-projects.
 * 11/12/2019 - New publications has been added.
 * 04/12/2019 - Course feedback form has been added to the website.
