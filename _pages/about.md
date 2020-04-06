@@ -15,7 +15,7 @@ My research interests lie in the general area of machine learning, particularly 
 
 Important Pages صفحات مهمة
 ====== 
-* [ شروحات و نشاطات الوحدة 4 سيتم إدراجها على منصة التعليم عن بعد على هذا الرابط](https://elearning.univ-adrar.dz/course/view.php?id=266)
+* [ شروحات و نشاطات الوحدة 4 سيتم إدراجها على منصة التعليم عن بعد على هذا الرابط Fiche TP 4](https://elearning.univ-adrar.dz/course/view.php?id=266)
 
 * [Course Feedback رأي الطالب في المادة المقدمة و الأستاذ](https://forms.gle/S8qHBjacM9y4GgbXA)
 
