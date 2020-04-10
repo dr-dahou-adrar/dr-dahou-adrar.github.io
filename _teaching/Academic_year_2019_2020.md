@@ -17,11 +17,17 @@ Semester 1 - السداسي الأول
 
 
 1. [S1](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
+	* Algorithms and Data Structure 1 (TP)
+	* Numerical Methods (TP)
+	* Human-Machine Interface (TP)
 
 ***
 
 Semester 2 - السداسي الثاني
 ======
 1. [S2](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)
+	* Algorithms and Data Structure 2 (TP)
+	
+	
 
 
