@@ -11,7 +11,8 @@ location: "Adrar, Algeria"
 أهم الروابط و الصفحات التي تهم الطالب لإنجاز و تقييم العمل.
 
 
-====== 
+***
+ 
 * [E-learning رابط الأعمال التطبيقية على منصة التعليم عن بعد](https://elearning.univ-adrar.dz/course/view.php?id=266)
 
 * [Course Feedback رأي الطالب في المادة المقدمة و الأستاذ](https://forms.gle/S8qHBjacM9y4GgbXA)
