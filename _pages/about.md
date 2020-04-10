@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Asalam Alaikom! I’m Dr. Abdelghani Dahou. I received my B.S. degree in computer science and intelligent systems from University of Ahmad Draia, Adrar, Algeria in 2012 and the M.S. degree in computer science and intelligent systems from University of Ahmad Draia, Adrar, Algeria in 2014. I graduated in 2019 with Ph.D. degree in computer science at Wuhan University of Technology, Wuhan, Hubei, China advised by Prof. Xiong Shengwu and Dr. Zhou Zhunwei.
+Asalam Alaikom! I’m Abdelghani DAHOU. I received my B.S. degree in computer science and intelligent systems from University of Ahmad Draia, Adrar, Algeria in 2012 and the M.S. degree in computer science and intelligent systems from University of Ahmad Draia, Adrar, Algeria in 2014. I graduated in 2019 with Ph.D. degree in computer science at Wuhan University of Technology, Wuhan, Hubei, China advised by Prof. Xiong Shengwu and Dr. Zhou Zhunwei.
 
 My research interests lie in the general area of machine learning, particularly in deep learning, neural architecture search and NeuroEvolution, as well as their applications in opinion mining, text classification, multi-task and meta-learning and Arabic natural language processing.
 
