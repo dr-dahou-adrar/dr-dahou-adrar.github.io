@@ -15,18 +15,16 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 [Semester 1 - السداسي الأول](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
 ======
 
-
-1. [S1](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
-	* Algorithms and Data Structure 1 (TP)
-	* Numerical Methods 1 (TP)
-	* Human-Machine Interface (TP)
+* Algorithms and Data Structure 1 (TP)
+* Numerical Methods 1 (TP)
+* Human-Machine Interface (TP)
 
 ***
 
-Semester 2 - السداسي الثاني
+[Semester 2 - السداسي الثاني](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)
 ======
-1. [S2](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)
-	* Algorithms and Data Structure 2 (TP)
+
+* Algorithms and Data Structure 2 (TP)
 	
 	
 
