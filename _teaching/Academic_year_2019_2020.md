@@ -1,5 +1,5 @@
 ---
-title: "Academic year 2019/2020"
+title: "Academic year 2019/2020 السنة الجامعية"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Academic_year_2019_2020
