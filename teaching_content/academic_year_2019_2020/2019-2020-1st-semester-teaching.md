@@ -1,5 +1,5 @@
 ---
-title: "2019-2020 - 1st Semester الفصل الأول"
+title: "2019-2020 - 1st Semester السداسي الأول"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching
