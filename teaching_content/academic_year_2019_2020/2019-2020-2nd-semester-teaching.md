@@ -2,7 +2,7 @@
 title: "2019-2020 - 2nd Semester الفصل الثاني"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/academic_year_2019_2020/2019-2020-2nd-semester-teaching
+permalink: /teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching
 venue: "University of Ahmed Draia, Computer Science Department"
 date: 2020-01-26
 location: "Adrar, Algeria"

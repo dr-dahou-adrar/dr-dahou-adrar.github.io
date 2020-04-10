@@ -16,12 +16,12 @@ Assigned list of classes for this semester: Algorithms and Data Structures, Nume
 ======
 
 
-1. [S1](/academic_year_2019_2020/teaching/2019-2020-1st-semester-teaching)
+1. [S1](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
 
 ***
 
 2nd Semester
 ======
-1. [S2](/academic_year_2019_2020/teaching/2019-2020-2nd-semester-teaching)
+1. [S2](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)
 
 
