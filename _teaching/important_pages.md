@@ -1,5 +1,5 @@
 ---
-title: "Class Feedback رأي الطالب في المادة المقدمة و الأستاذ"
+title: "Important Pages صفحات مهمة"
 collection: teaching
 type: "Important Pages"
 permalink: /teaching/important_pages
@@ -8,7 +8,9 @@ date: 2019-10-04
 location: "Adrar, Algeria"
 ---
 
-Important Pages صفحات مهمة
+أهم الروابط و الصفحات التي تهم الطالب لإنجاز و تقييم العمل.
+
+
 ====== 
 * [E-learning رابط الأعمال التطبيقية على منصة التعليم عن بعد](https://elearning.univ-adrar.dz/course/view.php?id=266)
 
