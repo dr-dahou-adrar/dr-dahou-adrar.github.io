@@ -31,8 +31,8 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 
 Announces إعلانات
 ======
-* 10/04/2020 S2 - TP 1 - Functions (Fiche TP) تم إدراج تمارين 
-* Exercice 3 submission deadline : 31/03/2020 أخر اجل لإيداع حل للتمرين رقم 3.
-* 09/03/2020 There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams. لا يوجد أي حصص تطبيقية بسبب الإختبارات الإستدراكية.
-* Exercice 2 deadline for all groups: 8-12/03/2020.
+* 10/04/2020 -> S2 - TP 1 - Functions (Fiche TP) تم إدراج تمارين 
+* 15/03/2020 -> Exercice 3 submission deadline : 31/03/2020 أخر اجل لإيداع حل للتمرين رقم 3.
+* 09/03/2020 -> There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams. لا يوجد أي حصص تطبيقية بسبب الإختبارات الإستدراكية.
+* 08/03/2020 -> Exercice 2 deadline for all groups: 8-12/03/2020.
 
