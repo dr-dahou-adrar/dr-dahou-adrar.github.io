@@ -12,7 +12,7 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 
 ***
 
-Semester 1 - السداسي الأول
+[Semester 1 - السداسي الأول](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
 ======
 
 
