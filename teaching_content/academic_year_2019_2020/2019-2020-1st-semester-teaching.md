@@ -8,11 +8,11 @@ date: 2019-11-27
 location: "Adrar, Algeria"
 ---
 
-Assigned list of classes for this semester: Algorithms and Data Structures, Numerical Methods, and Human-Machine Interface (HMI).
+Assigned list of classes for this semester: Algorithms and Data Structures 1 (TP), Numerical Methods 1 (TP), and Human-Machine Interface (HMI).
 
 ***
 
-Algorithms and Data Structures
+Algorithms and Data Structure 1 (TP) 
 ======
 
 
@@ -21,7 +21,7 @@ Algorithms and Data Structures
 
 ***
 
-Numerical Methods
+Numerical Methods 1 (TP)
 ======
 1. [MATLAB basics](https://www.notion.so/1-MATLAB-basics-95a4cba5a607477598e94f1e27e883a3)
 2. [La méthode de point fixe](https://www.notion.so/3-La-m-thode-de-point-fixe-8eeb42b2c51749e5892fc9eea2f784c9)
@@ -32,7 +32,7 @@ Numerical Methods
 
 ***
 
-Human-Machine Interface (HMI)
+Human-Machine Interface (TP)
 ======
 1. [TP 1 - Introduction](https://www.notion.so/TP01-Introduction-eb9174c7afad43fcb0c5dca09c57f080)
 2. [TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
