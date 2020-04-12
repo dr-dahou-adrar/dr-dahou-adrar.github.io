@@ -18,7 +18,7 @@ Algorithms and Data Structures 2 (TP)
 1. [Excercices and tests solutions + explanations of "Fiche TP 3" شرح, حلول تمارين و فروض](https://www.notion.so/dahou/5-Fiche-TP03-6bf99212e1fd4d2c89adac28013cd857) 
 2. [S2 - TP 1 - Functions (Fiche TP) تمارين ](https://elearning.univ-adrar.dz/course/view.php?id=266)
     *  الرجاء تحميل ملف التمارين و ملف التعليمات من الرابط أعلاه و قراءة ملف التعليمات الخاص به جيدا
-    *  سيتم إرفاق شرح مصور عن قريب يلخص مفاهيم هذا العمل
+    *  تم رفع شرح مصور للتمارين وكيفية تقديمها  - [للمشاهدة إضغط هنا](https://drive.google.com/file/d/1E6w6ojhqDbdDbMgkTiDOr8o9FuYBvISh/view)
 
 
 
