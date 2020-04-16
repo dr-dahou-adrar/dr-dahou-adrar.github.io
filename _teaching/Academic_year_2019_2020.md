@@ -38,5 +38,5 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 |10/04/2020|ملفات التمارين التطبيقية|Algorithms and Data Structure 2|S2 - TP 1 - Functions (Fiche TP)|[إضغط هنا](https://elearning.univ-adrar.dz/course/view.php?id=266)|-|
 |15/03/2020|Exercice 3 submission deadline|Algorithms and Data Structure 2|S1 - TP 3| - |31/03/2020|
 |09/03/2020|There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams.| Algorithms and Data Structure 2 | TP |-|-|
-|08/03/2020|Exercice 2|-|-|-|8-12/3/2019|
+|08/03/2020|Exercice 2|-|-|-|8-12/3/2020|
 
