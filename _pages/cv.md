@@ -15,20 +15,21 @@ Education
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
 * B.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2012
 
-
+***
 Work experience
 ======
 * Fall 2019 - Now: Assistant professor
   * School of Mathematics & Computer Science.
   * University of Ahmed Draia, Adrar, Algeria.
 
-
+***
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+***
 Publications
 ======
   <ul>{% for post in site.publications %}
