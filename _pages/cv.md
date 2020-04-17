@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="color:crimson"> **Education** </p>
+<h1 style="color:crimson"> Education </h1>
 ======
 * Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
