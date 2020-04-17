@@ -8,7 +8,6 @@ venue: 'The 9th International Conference on Agents and Artificial Intelligence I
 
 ---
 <p style="text-align: justify">
-
 In this paper, we propose a novel directed acyclic graph (DAG) deep knowledge representation built upon the theorem of combinational semantics. Knowledge is decomposed into nodes and edges which are then inserted into the ontology knowledge base. Experimental results demonstrate the superiority of the proposed method on question answering, especially when the syntax of question is complex, and its representation is fuzzy.
 
 [Download paper here](https://www.scitepress.org/papers/2017/61089/)

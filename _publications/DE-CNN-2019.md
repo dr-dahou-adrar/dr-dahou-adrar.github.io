@@ -9,7 +9,6 @@ venue: 'Computational Intelligence and Neuroscience'
 #citation: 'Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. &quot;Arabic Sentiment Classification Using Convolutional Neural Network and Differential Evolution Algorithm.&quot; <i>Computational Intelligence and Neuroscience</i>. 1(1).'
 ---
 <p style="text-align: justify">
-
 In this paper, we address this problem by combining differential evolution (DE) algorithm and CNN, where DE algorithm is used to automatically search the optimal configuration including CNN architecture and network parameters. In order to achieve the goal, five CNN parameters are searched by the DE algorithm which include convolution filter sizes that control the CNN architecture, number of filters per convolution filter size (NFCS), number of neurons in fully connected (FC) layer, initialization mode, and dropout rate. 
 
 In addition, the effect of the mutation and crossover operators in DE algorithm were investigated. The performance of the proposed framework DE-CNN is evaluated on five Arabic sentiment datasets. Experiments’ results show that DE-CNN has higher accuracy and is less time consuming than the state-of-the-art algorithms.
