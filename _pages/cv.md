@@ -11,7 +11,6 @@ redirect_from:
 
 <h1 style="color:crimson"> Education </h1>
 
-======
 * Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
 * B.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2012
@@ -20,7 +19,6 @@ redirect_from:
 
 <h1 style="color:crimson"> Work experience </h1>
 
-======
 * Fall 2019 - Now: Assistant professor
   * School of Mathematics & Computer Science.
   * University of Ahmed Draia, Adrar, Algeria.
@@ -29,7 +27,6 @@ redirect_from:
 
 <h1 style="color:crimson"> Teaching </h1>
 
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -38,7 +35,6 @@ redirect_from:
 
 <h1 style="color:crimson"> Publications </h1>
 
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
