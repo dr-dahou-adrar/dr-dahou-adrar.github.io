@@ -17,7 +17,7 @@ Algorithms and Data Structures 2 (TP)
 
 |Post Date التاريخ| Title العنوان| Course المقياس| Series السلسلة| Link الرابط| Deadline آخر أجل| Note ملاحظة|
 |:----------------:|:---------------------:|:-----------------------:|:----------------------:|:--------------------:|:--------------:|:--------------:|
-|12/04/2020|“S2 - Fiche TP 1” شرح مصور للتمارين وكيفية تقديمها |Algorithms and Data Structure 2|S2 - TP 1 - Functions (Fiche TP)|[Youtube](https://www.youtube.com/watch?v=bEWbg0xvlLM) & [Google Drive](https://drive.google.com/file/d/1E6w6ojhqDbdDbMgkTiDOr8o9FuYBvISh/view)|-|-|
+|12/04/2020|“S2 - Fiche TP 1” شرح مصور للتمارين وكيفية تقديمها |Algorithms and Data Structure 2|S2 - TP 1 - Functions (Fiche TP)|[Youtube](https://www.youtube.com/watch?v=bEWbg0xvlLM) & [Google Drive](https://drive.google.com/file/d/1E6w6ojhqDbdDbMgkTiDOr8o9FuYBvISh/view)|-|[صحفة رفع التمارين التطبيقية](https://forms.gle/2hDMQGdohr1YN2eLA)|
 |12/04/2020|“S2 - Fiche TP 1” تمارين |Algorithms and Data Structure 2|S2 - TP 1 - Functions (Fiche TP)|[Click Here](https://elearning.univ-adrar.dz/course/view.php?id=266)|-|الرجاء تحميل ملف التمارين و ملف التعليمات من الرابط و قراءة ملف التعليمات الخاص به جيدا|
 |12/03/2020|“S1 - Fiche TP 3” شرح, حلول تمارين و فروض|Algorithms and Data Structure 2|S1 - TP 3 - Arrays (Fiche TP)|[Click Here](https://www.notion.so/dahou/5-Fiche-TP03-6bf99212e1fd4d2c89adac28013cd857)|-|-|
 
