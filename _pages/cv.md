@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<p style="color:crimson"> **Education** </p>
 ======
 * Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
 * B.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2012
 
 ***
+
 Work experience
 ======
 * Fall 2019 - Now: Assistant professor
@@ -23,6 +24,7 @@ Work experience
   * University of Ahmed Draia, Adrar, Algeria.
 
 ***
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -30,6 +32,7 @@ Teaching
   {% endfor %}</ul>
 
 ***
+
 Publications
 ======
   <ul>{% for post in site.publications %}
