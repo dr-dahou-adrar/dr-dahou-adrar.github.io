@@ -8,7 +8,9 @@ venue: '2016 International Conference on Industrial Informatics and Computer Sys
 
 ---
 
-Ad-hoc network has opened a new dimension in wireless networks. It allows wireless nodes to communicate with each other in the absence of centralized support. It does not follow any fixed infrastructure because of the mobility of nodes and multi-path propagations. Link instability and node mobility make routing a core issue in MANETs. A suitable and effective routing mechanism helps to extend the successful deployment of MANETs. In this paper, we have simulated and analyzed two routing protocols: DSR (Dynamic Source Routing Protocol) and DYMO (Dynamic MANET On-demand Routing). Our simulations were conducted using the OMNET simulation tool. Simulation results showed a better performance of DYMO over DSR in terms of throughput, packet delay, packet dropping, and collision ratio.
+Ad-hoc network has opened a new dimension in wireless networks. It allows wireless nodes to communicate with each other in the absence of centralized support. It does not follow any fixed infrastructure because of the mobility of nodes and multi-path propagations. Link instability and node mobility make routing a core issue in MANETs. A suitable and effective routing mechanism helps to extend the successful deployment of MANETs. 
+
+In this paper, we have simulated and analyzed two routing protocols: DSR (Dynamic Source Routing Protocol) and DYMO (Dynamic MANET On-demand Routing). Our simulations were conducted using the OMNET simulation tool. Simulation results showed a better performance of DYMO over DSR in terms of throughput, packet delay, packet dropping, and collision ratio.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/7462432)
 
