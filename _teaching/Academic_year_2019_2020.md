@@ -34,6 +34,7 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 
 |Post Date التاريخ| Title العنوان| Course المقياس| Series السلسلة| Link الرابط| Deadline آخر أجل|
 |:----------------:|:---------------------:|:-----------------------:|:----------------------:|:--------------------:|:--------------:|
+|01/06/2020|S2 - TP 3 - Linked Lists |Algorithms and Data Structure 2|Fiche TP| [إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|15/06/2020|
 |05/05/2020|S2 - TP 2 - Pointers |Algorithms and Data Structure 2|Fiche TP| [إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|20/05/2020|
 |12/04/2020|S2 - TP 1 - Functions|Algorithms and Data Structure 2|Fiche TP|[إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|30/04/2020|
 |10/04/2020|S1 - TP 3 - Functions (Basics)|Algorithms and Data Structure 2|Fiche TP|[إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|-|
