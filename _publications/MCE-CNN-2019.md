@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MCE-CNN-2019
 #excerpt: 'paper description to be shown in main publication page'
 date: 2019-5-21
-venue: 'TALLIP'
+venue: 'ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)'
 #paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
 #citation: 'Dahou, A., Xiong, S., Zhou, J., & Mohamed, Abd Elaziz. &quot;Multi-channel Embedding Convolutional Neural Network Model for Arabic Sentiment Classification.&quot; <i>TALLIP</i>. 1(1).'
 ---
@@ -13,6 +13,6 @@ In this paper, a multi-channel embedding convolutional neural network (MCE-CNN) 
 
 Besides, a separate feature extraction module implemented in a CNN block is used to extract more relevant sentiment features. These channels and blocks help to start training on high-quality WEVs and fine-tuning them. The performance of MCE-CNN is evaluated on several standard balanced and imbalanced datasets to reflect real-world using cases. Experimental results show that MCE-CNN provides a high classification accuracy and benefits from the second embedding channel on both standard Arabic and dialectal Arabic text, which outperforms state-of-the-art methods.
 
-Recommended citation: Dahou, A., Xiong, S., Zhou, J., & Mohamed, Abd Elaziz. "Multi-channel Embedding Convolutional Neural Network Model for Arabic Sentiment Classification." <i>(TALLIP 2019)</i>.
+Recommended citation: Dahou, A., Xiong, S., Zhou, J., & Mohamed, Abd Elaziz. "Multi-channel Embedding Convolutional Neural Network Model for Arabic Sentiment Classification." <i>(ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 2019)</i>.
 </p>
 
