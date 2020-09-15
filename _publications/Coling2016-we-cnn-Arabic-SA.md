@@ -3,7 +3,7 @@ title: "Word Embeddings and Convolutional Neural Network for Arabic Sentiment Cl
 collection: publications
 permalink: /publication/Coling2016-we-cnn-Arabic-SA
 #excerpt: 'paper description to be shown in main publication page'
-date: 2016-10-01
+date: 2016-12-01
 venue: 'Coling'
 #paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
 #citation: 'Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. &quot;Word embeddings and convolutional neural network for arabic sentiment classification.&quot; <i>Coling</i>. 1(1).'

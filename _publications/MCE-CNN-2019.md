@@ -3,7 +3,7 @@ title: "Multi-channel Embedding Convolutional Neural Network Model for Arabic Se
 collection: publications
 permalink: /publication/MCE-CNN-2019
 #excerpt: 'paper description to be shown in main publication page'
-date: 2019-2-02
+date: 2019-5-21
 venue: 'TALLIP'
 #paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
 #citation: 'Dahou, A., Xiong, S., Zhou, J., & Mohamed, Abd Elaziz. &quot;Multi-channel Embedding Convolutional Neural Network Model for Arabic Sentiment Classification.&quot; <i>TALLIP</i>. 1(1).'

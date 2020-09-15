@@ -3,7 +3,7 @@ title: "Simulation Comparison and Analysis of DSR and DYMO Protocols in MANETs"
 collection: publications
 permalink: /publication/manets-2016
 #excerpt: 'paper description to be shown in main publication page'
-date: 2016-5-02
+date: 2016-3-13
 venue: '2016 International Conference on Industrial Informatics and Computer Systems (CIICS)'
 
 ---
