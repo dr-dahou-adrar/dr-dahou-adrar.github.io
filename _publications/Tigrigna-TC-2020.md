@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Tigrigna-TC-2020
 #excerpt: 'paper description to be shown in main publication page'
 date: 2020-5-28
-venue: '3rd International Conference on Artificial Intelligence and Big Data (ICAIBD) 2020'
+venue: '3rd International Conference on Artificial Intelligence and Big Data (ICAIBD)'
 #paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
 #citation: 'Alhaj Y.A., Al-qaness M.A.A., Dahou A., Abd Elaziz M., Zhao D., Xiang J. &quot;Effects of Light Stemming on Feature Extraction and Selection for Arabic Documents Classification.&quot; <i>Recent Advances in NLP: The Case of Arabic Language. Studies in Computational Intelligence, vol 874. Springer.)</i>. 1(1).'
 ---

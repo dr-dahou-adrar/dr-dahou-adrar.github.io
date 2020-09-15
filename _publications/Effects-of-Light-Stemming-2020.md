@@ -3,7 +3,7 @@ title: "Effects of Light Stemming on Feature Extraction and Selection for Arabic
 collection: publications
 permalink: /publication/Effects-of-Light-Stemming-2020
 #excerpt: 'paper description to be shown in main publication page'
-date: 2019-11-30
+date: 2020-1-30
 venue: 'Book - Part of the Studies in Computational Intelligence book series (SCI, volume 874)'
 #paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
 #citation: 'Alhaj Y.A., Al-qaness M.A.A., Dahou A., Abd Elaziz M., Zhao D., Xiang J. (2020) &quot;Effects of Light Stemming on Feature Extraction and Selection for Arabic Documents Classification.&quot; <i>Recent Advances in NLP: The Case of Arabic Language. Studies in Computational Intelligence, vol 874. Springer.)</i>. 1(1).'

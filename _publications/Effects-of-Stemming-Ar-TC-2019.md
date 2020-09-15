@@ -1,7 +1,7 @@
 ---
 title: "A Study of the Effects of Stemming Strategies on Arabic Document Classification"
 collection: publications
-permalink: /publication/Effects-of-Stemming-Ar-TC-2020
+permalink: /publication/Effects-of-Stemming-Ar-TC-2019
 #excerpt: 'paper description to be shown in main publication page'
 date: 2019-3-11
 venue: 'IEEE Access'
