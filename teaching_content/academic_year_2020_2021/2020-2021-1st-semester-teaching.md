@@ -21,32 +21,20 @@ Algorithms and Data Structure 1 (TP)
 
 ***
 
-Numerical Methods 1 (TP)
+
+[Announces إعلانات]()
 ======
-1. [MATLAB basics](https://www.notion.so/1-MATLAB-basics-95a4cba5a607477598e94f1e27e883a3)
-2. [La méthode de point fixe](https://www.notion.so/3-La-m-thode-de-point-fixe-8eeb42b2c51749e5892fc9eea2f784c9)
-3. [La méthode de Lagrange](https://www.notion.so/dahou/5-La-m-thode-de-Lagrange-04fd1b4c4bb04a2f941fcfb8bfc0a5da)
-4. [La méthode de Trapèze](https://www.notion.so/dahou/6-La-m-thode-de-Trap-ze-c43b44f88599413f97f3708bc12a61ef)
 
+|Post Date التاريخ| Title العنوان| Course المقياس| Series السلسلة| Link الرابط| Deadline آخر أجل|
+|:----------------:|:---------------------:|:-----------------------:|:----------------------:|:--------------------:|:--------------:|
+|01/06/2020|S2 - TP 3 - Linked Lists |Algorithms and Data Structure 2|Fiche TP| [إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|15/06/2020|
+|05/05/2020|S2 - TP 2 - Pointers |Algorithms and Data Structure 2|Fiche TP| [إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|20/05/2020|
+|12/04/2020|S2 - TP 1 - Functions|Algorithms and Data Structure 2|Fiche TP|[إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|30/04/2020|
+|10/04/2020|S1 - TP 3 - Functions (Basics)|Algorithms and Data Structure 2|Fiche TP|[إضغط هنا](/teaching_content/academic_year_2019_2020/2019-2020-2nd-semester-teaching)|-|
+|15/03/2020|Exercice 3 submission deadline|Algorithms and Data Structure 2|S1 - TP 3| - |31/03/2020|
+|09/03/2020|There will be no classes from 15/03/2020 to 19/03/2020 due to the planned exams.| Algorithms and Data Structure 2 | TP |-|-|
+|08/03/2020|Exercice 2|-|-|-|8-12/3/2020|
 
-
-***
-
-Human-Machine Interface (TP)
-======
-1. [TP 1 - Introduction](https://www.notion.so/TP01-Introduction-eb9174c7afad43fcb0c5dca09c57f080)
-2. [TP 1 - Environment setup + Hello World](https://www.notion.so/TP01-Environment-setup-Hello-World-82a6cc6a2af846c2b645c466996e75c5)
-3. [TP 1 - First GUI APP](https://www.notion.so/TP01-First-GUI-App-0f710277f0e64daab0f3503552aa6d8f)
-4. [TP 2 - GUI App - 2](https://www.notion.so/TP02-GUI-App-2-8bdd68795a854bfcbf96774016b82a55)
-5. [TP03 - Menu](https://www.notion.so/dahou/TP03-Menu-5789cdf97d974f6b90e55ef7df2ecf38)
-6. HMI Project Evaluation:  
-	- TP presence: 5 points  
-	- Project: 15 points divided as follows:  
-		- Report: 2 points  
-		- Project Idea: 2 points  
-		- Interface components: 5 points 
-		- Code understanding: 3 points  
-		- Program functionality (Buttons clicks and messages): 3 points.  
 
 
 
