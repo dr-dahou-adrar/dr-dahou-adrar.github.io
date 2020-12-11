@@ -20,8 +20,4 @@ Assigned list of classes for this year: Algorithms and Data Structures 1 and Ini
 
 ***
 
-[Semester 2 (S2) - السداسي الثاني]()
-======
-    
-***
 
