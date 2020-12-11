@@ -1,10 +1,10 @@
 ---
-title: "2019-2020 - 1st Semester السداسي الأول"
+title: "2020-2021 - 1st Semester السداسي الأول"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching
+permalink: /teaching_content/academic_year_2020_2021/2020-2021-1st-semester-teaching
 venue: "University of Ahmed Draia, Computer Science Department"
-date: 2019-11-27
+date: 2020-12-11
 location: "Adrar, Algeria"
 ---
 
