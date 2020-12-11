@@ -8,7 +8,7 @@ date: 2020-12-11
 location: "Adrar, Algeria"
 ---
 
-Assigned list of classes for this year: Algorithms and Data Structures 1-2, Numerical Methods 1, and Human-Machine Interface (HMI).
+Assigned list of classes for this year: Algorithms and Data Structures 1 and Initiation to Research 1.
 
 ***
 
