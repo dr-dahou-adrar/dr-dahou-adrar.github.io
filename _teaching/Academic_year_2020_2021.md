@@ -17,6 +17,6 @@ location: "Adrar, Algeria"
 ======
 
 * [Algorithms and Data Structure 1 (TD) (1st year Bachelor)](/teaching_content/academic_year_2020_2021/2020-2021-S1-ASD1)
-* [Initiation to Research 1 (lectures) (2nd year Master)](/teaching_content/academic_year_2020_2021/IAR1)
+* [Initiation to Research 1 (Lectures) (2nd year Master)](/teaching_content/academic_year_2020_2021/2020-2021-S1-IAR1)
 
 ***
