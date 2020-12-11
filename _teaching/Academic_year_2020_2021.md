@@ -7,8 +7,9 @@ venue: "University of Ahmed Draia, Computer Science Department"
 date: 2020-12-11
 location: "Adrar, Algeria"
 ---
-
-Assigned list of classes for this year: Algorithms and Data Structures 1 and Initiation to Research 1.
+* Assigned list of classes for this year:  
+    * Algorithms and Data Structures 1.
+    * Initiation to Research 1.
 
 ***
 
@@ -19,5 +20,3 @@ Assigned list of classes for this year: Algorithms and Data Structures 1 and Ini
 * [Initiation to Research 1 (lectures) (2nd year Master)](/teaching_content/academic_year_2020_2021/IAR1)
 
 ***
-
-
