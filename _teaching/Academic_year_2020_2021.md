@@ -12,7 +12,7 @@ Assigned list of classes for this year: Algorithms and Data Structures 1-2, Nume
 
 ***
 
-[Semester 1 (S1) - السداسي الأول](/teaching_content/academic_year_2019_2020/2019-2020-1st-semester-teaching)
+[Semester 1 (S1) - السداسي الأول](/teaching_content/academic_year_2020_2021/2020-2021-1st-semester-teaching)
 ======
 
 * Algorithms and Data Structure 1 (TD) (1st year Bachelor)
