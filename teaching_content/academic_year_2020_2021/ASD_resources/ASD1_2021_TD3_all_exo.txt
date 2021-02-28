@@ -1,0 +1,90 @@
+Algorithme exo1;
+    
+    Variables
+        n,som,i:entier;
+    
+Début
+    Ecrire("donner un nombre");
+    Lire(n);
+
+    som ◄- 0;
+    // som = 0
+    // som = 0 + 1 = 1/ i = 2
+    // som = 1 + 2 = 3 / i = 3
+    // som = 3 + 3 = 6 / i = 4
+    // som = 6 + 4 = 10 / i = 5
+    // som = 10 + 5 = 15 / i = 6
+    Pour i De: 1 A: n Pas: 1 Faire
+        som ◄- som + i;
+        suivant(i);
+    FinPour;
+    Ecrire("la somme est", som);
+Fin.
+
+Algorithme exo2;
+    
+    Variables
+        n,PG:entier;
+    
+Début
+    
+    PG ◄- 0; 
+    // n = 5 / PG = 5
+    // n = 20 / PG = 20
+    // n = 9 / PG = 20
+    // n = 100 / PG = 100
+    // n = 0 / PG = 100
+    Repéter
+        Ecrire("donner un nombre");
+        Lire(n);
+        
+        Si (n < PG) Alors
+            PG ◄- n;
+        FinSi;
+
+    Jusqu'a (n = 0);
+    Ecrire("le plus grand est", PG);
+Fin.
+
+Algorithme td3_exo3;
+
+Variables
+    N:entier;
+    prix:réel;
+
+Début
+    Ecrire("donner nombre des place");
+    Lire(N);
+
+    Si (N <= 5) Alors
+        prix ◄- 8 * N;
+        Ecrire(prix);
+    FinSi;
+
+    Si (N > 5 et N <= 10) Alors
+        prix ◄- (8 * 5) + (N-5) * 6;
+        Ecrire(prix);
+    FinSi;
+
+    Si (N > 10) Alors
+        prix ◄- (8 * 5) + (6 * 5) + (N-10) * 5.5;
+        Ecrire(prix);
+    FinSi;
+
+    
+Fin.
+
+Algorithme exo4;
+
+Variables
+    N,i:entier;
+
+Début
+    Ecrire("donner le nombre de depart");
+    Lire(N);
+
+    Pour i De: N+1 A: N+10 Pas: 1 Faire
+        Ecrire(i);
+        suivant(i);
+    FinPour;
+Fin.
