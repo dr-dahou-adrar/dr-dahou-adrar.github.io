@@ -8,15 +8,16 @@ date: 2020-12-11
 location: "Adrar, Algeria"
 ---
 * Assigned list of classes for this year:  
-    * Algorithms and Data Structures 1.
-    * Initiation to Research 1.
+    * Initiation to Research 1 (S1).
+    * Algorithms and Data Structures 1 (S1).
+    * Algorithms and Data Structures 2 (S2).
 
 ***
 
-[Semester 1 (S1) - السداسي الأول]()
+[Semester 1&2 (S1/S2) -  السداسي الأول و الثاني]()
 ======
 
-* [Algorithms and Data Structure 1 (TD) (1st year Bachelor)](/teaching_content/academic_year_2020_2021/2020-2021-S1-ASD1)
+* [Algorithms and Data Structure 1-2 (TD) (1st year Bachelor)](/teaching_content/academic_year_2020_2021/2020-2021-ASD)
 * [Initiation to Research 1 (Lectures) (2nd year Master)](/teaching_content/academic_year_2020_2021/2020-2021-S1-IAR1)
 
 ***
