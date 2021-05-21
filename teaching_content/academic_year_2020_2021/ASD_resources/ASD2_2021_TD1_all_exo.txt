@@ -1,0 +1,128 @@
+Algorithme somme5;
+
+Variables
+    resultat, a,b,c,d,e: entier;
+
+Fonction som(x1: entier, x2: entier, x3: entier, x4: entier, x5: entier): entier;
+
+    Variables
+        res:entier;
+
+    Début
+        res ◄- x1 + x2 + x3 + x4 + x5;
+
+        Retourner res;
+    FinFonction
+
+  
+
+Début
+    a ◄- 1; b ◄- 2; c ◄- 3; d ◄- 4; e ◄- 5;
+
+    resultat ◄- som(a,b,c,d,e);
+    resultat ◄- som(4,5,3);
+    
+    Ecrire(resultat);
+
+Fin.
+
+
+
+
+Algorithme sorted;
+
+    Variables
+        n: entier;
+        T: Tableau [1..5] de entier;
+
+    Procédure sorted_or_not(A: Tableau, n: entier);
+        
+        Variables
+            resultat: booléen;
+            i: entier;
+    Début
+        resultat = vrai;
+
+        Pour i De: 1 A: n Pas: 1 Faire
+            
+            Si (A[i] > A[i+1]) Alors
+                resultat = faux;
+                break;
+            FinSi;
+        FinPour;
+        
+        Ecrire(resultat);
+    FinProcédure
+Début
+    n = 5;
+    T = {1,2,3,4,5}
+    sorted_or_not(T, n);
+Fin.
+
+
+
+#include <stdio.h>
+ 
+void swap(int x, int y);
+
+int main () {
+
+   int a = 100, b = 200;
+ 
+   printf("Before swap, value of a : %d\n", a );
+   printf("Before swap, value of b : %d\n", b );
+ 
+   /* calling a function to swap the values */
+   swap(a, b);
+ 
+   printf("After swap, value of a : %d\n", a );
+   printf("After swap, value of b : %d\n", b );
+   return 0;
+}
+
+void swap(int x, int y) {
+
+   int temp;
+
+   temp = x; /* save the value of x */
+   x = y;    /* put y into x */
+   y = temp; /* put temp into y */
+   system("pause"); 
+
+}
+
+
+
+
+#include <stdio.h>
+ 
+void swap(int *x, int *y);
+ 
+int main () {
+
+   int a = 100, b = 200;
+
+   printf("Before swap, value of a : %d\n", a );
+   printf("Before swap, value of b : %d\n", b );
+ 
+   /* calling a function to swap the values.
+      * &a indicates pointer (address) to a 
+      * &b indicates pointer to b 
+   */
+   swap(&a, &b);
+ 
+   printf("After swap, value of a : %d\n", a );
+   printf("After swap, value of b : %d\n", b );
+   return 0;
+}
+
+
+void swap(int *x, int *y) {
+
+   int temp;
+   temp = *x;    /* save the value at address x */
+   *x = *y;      /* put y into x */
+   *y = temp;    /* put temp into y */
+   system("pause"); 
+
+}
