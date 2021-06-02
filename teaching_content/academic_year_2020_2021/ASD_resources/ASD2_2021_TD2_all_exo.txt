@@ -1,0 +1,85 @@
+Algorithme exo1;
+
+    
+    Variables
+        x,y,s:réel;
+        p1,p2: ^réel;
+    
+
+Début
+    x ◄- 5;
+    y ◄- 0;
+    p1 ◄- @x;
+    p2 ◄- @y;
+
+    s ◄- p1^ + p2^;
+    Ecrire(s);
+
+    s ◄- p1^ - p2^;
+    Ecrire(s);
+
+    s ◄- p1^ * p2^;
+    Ecrire(s);
+
+    Si (p2^ <> 0) Alors
+        s ◄- p1^ / p2^;
+        Ecrire(s);
+    Sinon
+        Ecrire("impossible");
+    FinSi;
+  
+Fin.
+
+
+Algorithme exo2;
+
+    
+    Variables
+        x:entier;
+        p1: ^entier;
+    
+Début
+    x ◄- 5;
+    p1 ◄- @x;
+
+    Si (p1^ % 2 == 0) Alors
+        Ecrire("pair");
+    Sinon
+        Ecrire("impair");
+    FinSi;
+Fin.
+
+
+Algorithme exo3;
+    
+    Variables
+        a,b:entier;
+    
+
+    Procédure inverse(p_a:^entier, p_b:^entier);
+        
+        Variables
+            tmp:entier;
+        
+    Début
+        Si (p_a^ * p_b^ >= 0) Alors
+            tmp ◄- p_a^;
+            p_a^ ◄- p_b^;
+            p_b^ ◄- tmp;
+        Sinon
+            tmp ◄- p_a^;
+            p_a^ ◄- p_a^ + p_b^;
+            p_b^ ◄- tmp * p_b^;
+            
+        FinSi;
+    FinProcédure
+
+Début
+    a ◄- -5;
+    b ◄- 8;
+
+    inverse(@a,@b);
+
+    Ecrire(a,b);
+Fin.
+
