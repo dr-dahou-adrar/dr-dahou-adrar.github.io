@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<iframe src="./files/CV_of_Dahou_EN.pdf" width="100%" height="600px"></iframe>
+<iframe src="../files/CV_of_Dahou_EN.pdf" width="100%" height="600px"></iframe>
 
 
 <!-- Work experience
