@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+
+<iframe src="files/CV_of_Dahou_EN.pdf" width="100%" height="600px"></iframe>
+
+
+<!-- Work experience
+
 {% include base_path %}
 
 <h1 style="color:crimson"> Education </h1>
