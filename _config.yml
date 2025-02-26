@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Abdelghani Dahou"
 title_separator          : "-"
 name                     : &name "Abdelghani Dahou"
-description              : &description "Phd student in Wuhan University of Technology - Deep learnin - NLP - Arabic language processing"
+description              : &description "Phd student in Wuhan University of Technology - Deep learning - NLP - Arabic language processing"
 url                      : "https://dr-dahou-adrar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-dahou-adrar/dr-dahou-adrar.github.io"
@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Abdelghani Dahou"
-  avatar           : "profile.jpg"
-  bio              : "Assistant professor - Phd"
+  avatar           : "dahou_2.jpg"
+  bio              : "Associate Professor - Phd"
   location         : "Adrar, Algeria"
   employer         : #"Assistant professor"
   Major            : "Computer Science"
@@ -172,10 +172,10 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: False
